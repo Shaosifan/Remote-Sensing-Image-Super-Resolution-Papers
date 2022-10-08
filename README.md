@@ -1,6 +1,12 @@
 # Remote-Sensing-Image-Super-Resolution
 
+Here I mainly list the deep learning-based remote sensing image super-resolution methods. 
+
+## 2017
+- [GRSL2017] Super-Resolution for Remote Sensing Images via Local–Global Combined Network [[Paper](https://ieeexplore.ieee.org/document/7937881)]
+
 ## 2020
+- [TGRS2020] Coupled Adversarial Training for Remote Sensing Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/8946581)]
 - [TGRS2020] A Unified Network for Arbitrary Scale Super-Resolution of Video Satellite Images [[Paper](https://ieeexplore.ieee.org/document/9277650)]
 
 ## 2021 
@@ -18,4 +24,5 @@
 - [JSTAR2022] SWCGAN: Generative Adversarial Network Combining Swin Transformer and CNN for Remote Sensing Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9829280)]
 - [TGRS2022] Multiattention Generative Adversarial Network for Remote Sensing Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9787539)]
 - [TGRS2022] A Deep Multitask Convolutional Neural Network for Remote Sensing Image Super-Resolution and Colorization [[Paper](https://ieeexplore.ieee.org/document/9721252)]
+
 

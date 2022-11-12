@@ -19,10 +19,12 @@ Here I mainly list the deep learning-based remote sensing image super-resolution
 - [TGRS2021] Transformer-based Multi-Stage Enhancement for Remote Sensing Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9654169)][[Pytorch](https://github.com/Shaosifan/TransENet)]
 - [TGRS2021] RRSGAN: Reference-Based Super-Resolution for Remote Sensing Image [[Paper](https://ieeexplore.ieee.org/document/9328132)][[Pytorch](https://github.com/dongrunmin/RRSGAN)]
 - [TGRS2021] Collaborative Network for Super-Resolution and Semantic Segmentation of Remote Sensing Images [[Paper](https://ieeexplore.ieee.org/document/9506999)]
+- [TGRS2021] Qian Zhang, Guang Yang, and Guixu Zhang. Collaborative Network for Super-Resolution and Semantic Segmentation of Remote Sensing Images [[Paper](https://ieeexplore.ieee.org/document/9506999)]
 
 ## 2022
-- [JSTAR2022] SWCGAN: Generative Adversarial Network Combining Swin Transformer and CNN for Remote Sensing Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9829280)]
-- [TGRS2022] Multiattention Generative Adversarial Network for Remote Sensing Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9787539)]
-- [TGRS2022] A Deep Multitask Convolutional Neural Network for Remote Sensing Image Super-Resolution and Colorization [[Paper](https://ieeexplore.ieee.org/document/9721252)]
+- [JSTAR2022] Jingzhi Tu, Gang Mei, Zhengjing Ma, Francesco Piccialli. SWCGAN: Generative Adversarial Network Combining Swin Transformer and CNN for Remote Sensing Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9829280)]
+- [TGRS2022] Sen Jia, Zhihao Wang, Qingquan Li, Xiuping Jia, and Meng Xu. Multiattention Generative Adversarial Network for Remote Sensing Image Super-Resolution [[Paper](https://ieeexplore.ieee.org/document/9787539)]
+- [TGRS2022] Jianan Feng, Qian Jiang, Ching-Hsun Tseng, Xin Jin, Ling Liu, Wei Zhou and Shaowen Yao. A Deep Multitask Convolutional Neural Network for Remote Sensing Image Super-Resolution and Colorization [[Paper](https://ieeexplore.ieee.org/document/9721252)]
+- [ISPRS2022] Runmin Dong, Lichao Mou, Lixian Zhang, Haohuan Fu, XiaoXiang Zhu. Real-world remote sensing image super-resolution via a practical degradation model and a kernel-aware network [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001824)]
 
 

@@ -51,7 +51,10 @@ Here I mainly list the deep learning-based remote sensing image super-resolution
 - [TGRS2023] Continuous Remote Sensing Image Super-Resolution Based on Context Interaction in Implicit Function Space [[Paper](https://ieeexplore.ieee.org/document/10114420)][[Code](https://github.com/KyanChen/FunSR)]
 - [TGRS2023] Hybrid Attention-Based U-Shaped Network for Remote Sensing Image Super-Resolution [[Paper](https://github.com/likakakaka/HAUNet_RSISR)][[Code](https://github.com/likakakaka/HAUNet_RSISR)]
 - [TGRS2023] Deep Blind Super-Resolution for Satellite Video [[Paper](https://ieeexplore.ieee.org/document/10172076)][[Code](https://github.com/XY-boy/Blind-Satellite-VSR)]
-
+- [TGRS2023] A Progressive Feature Enhancement Deep Network for Large-Scale Remote Sensing Image Superresolution [[Paper](https://ieeexplore.ieee.org/abstract/document/10236467)]
+- [RS2023] Enhancing Remote Sensing Image Super-Resolution with Efficient Hybrid Conditional Diffusion Model [[Paper](https://www.mdpi.com/2072-4292/15/13/3452)]
+- [RS2023] Hybrid-Scale Hierarchical Transformer for Remote Sensing Image Super-Resolution [[Paper](https://www.mdpi.com/2072-4292/15/13/3442)]
+- [JSTAR2023] Remote Sensing Image Super-Resolution With Residual Split Attention Mechanism [[Paper](https://ieeexplore.ieee.org/abstract/document/10158796)]
 
 
 

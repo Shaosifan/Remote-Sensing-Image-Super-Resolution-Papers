@@ -66,3 +66,12 @@ Here I mainly list the deep learning-based remote sensing image super-resolution
 |2024 | Scale-Aware Backprojection Transformer for Single Remote Sensing Image Super-Resolution | - | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10753509) | - | - |
 |2024 | Hyper-Laplacian Prior for Remote Sensing Image Super-Resolution | - | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10613839) | - | - |
 |2024 | Efficient Swin Transformer for Remote Sensing Image Super-Resolution | ESTNet | [IEEE TIP](https://ieeexplore.ieee.org/abstract/document/10746331) | [code](https://github.com/PuhongDuan/ESTNet) | - |
+
+## Citation
+If you find this repository helpful in your research, please kindly consider citing our works on this topic, such as LGCNet, HSENet, TranSENet, CDGAN, FunSR, and SpecGAN.
+
+For more questions and suggestions, feel free to contact me :)
+
+Email: senlei@swjtu.edu.cn, senlei@buaa.edu.cn
+
+

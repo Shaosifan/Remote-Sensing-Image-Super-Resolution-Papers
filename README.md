@@ -45,8 +45,24 @@ Here I mainly list the deep learning-based remote sensing image super-resolution
 |2023 | A Progressive Feature Enhancement Deep Network for Large-Scale Remote Sensing Image Superresolution | - | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10236467) | - | Large-scale SR, progressive feature enhancement|
 |2023 | Enhancing Remote Sensing Image Super-Resolution with Efficient Hybrid Conditional Diffusion Model | - | [RS](https://www.mdpi.com/2072-4292/15/13/3452) | - |SISR, diffusion model|
 |2023 | Hybrid-Scale Hierarchical Transformer for Remote Sensing Image Super-Resolution | - | [RS](https://www.mdpi.com/2072-4292/15/13/3442) | - | SISR, transformer, hybrid-scale|
-|2023 | Remote Sensing Image Super-Resolution With Residual Split Attention Mechanism | - | [IEEE JSTAR](https://ieeexplore.ieee.org/abstract/document/10158796) | - | SISR, split attention |
-
-
-
-
+|2023 | Remote Sensing Image Super-Resolution With Residual Split Attention Mechanism | - | [IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/10158796) | - | SISR, split attention |
+|2023 | AEFormer: Zoom Camera Enables Remote Sensing Super-Resolution via Aligned and Enhanced Attention | AEFormer | [RS](https://www.mdpi.com/2072-4292/15/22/5409) | - | zoom camera, reference-based sr|
+|2023 | From Degrade to Upgrade Learning a Self-Supervised Degradation-Guided Adaptive Network for Blind Remote Sensing Image Super-Resolution | DRSR | [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253523001100) | [code](https://github.com/XY-boy/DRSR) | blind SR, self-supervised |
+|2023 | Zooming Out on Zooming In: Advancing Super-Resolution for Remote Sensing | - | [arXiv](https://arxiv.org/pdf/2311.18082) | [code](https://github.com/allenai/satlas-super-resolution/tree/main) | new metric CLIPSCORE, new dataset S2-NAIP|
+|2023 | Multi-frame super-resolution of remote sensing images using attention-based GAN models | - | [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/pii/S0950705123001375) | - | - |
+|2023 | Cross-sensor remote sensing imagery super-resolution via an edge-guided attention-based network | EGASR | [ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271623001053) | [code](https://github.com/zhonghangqiu/EGASR) | real-world, cross-sensor, edge-guided|
+|2023 | CLSR: Contrastive Learning for Semi-Supervised Remote Sensing Image Super-Resolution | CLSR | [IEEE GRSL](https://ieeexplore.ieee.org/document/10180093) | - | - |
+|2024 | Two-Stage Spatial-Frequency Joint Learning for Large-Factor Remote Sensing Image Super-Resolution | TSFNet | [IEEE TGRS](https://ieeexplore.ieee.org/document/10411925) | [code](https://github.com/likakakaka/TSFNet_RSISR) | - |
+|2024 | TTST: A Top-k Token Selective Transformer for Remote Sensing Image Super-Resolution | TTST | [IEEE TIP](https://ieeexplore.ieee.org/document/10387229) | [code](https://github.com/XY-boy/TTST) | sparse Transformer |
+|2024 | Local-Global Context-Aware Generative Dual-Region Adversarial Networks for Remote Sensing Scene Image Super-Resolution | LGCGDAN | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10403859) | - | - |
+|2024 | MSWAGAN: Multispectral Remote Sensing Image Super-Resolution Based on Multiscale Window Attention Transformer | MSWAGAN | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10494508) | - | - |
+|2024 | CSwT-SR: Conv-Swin Transformer for Blind Remote Sensing Image Super-Resolution With Amplitude-Phase Learning and Structural Detail Alternating Learning | CSwT-SR | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10562345) | - | - |
+|2024 | GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Superresolution | GCRDN | [IEEE JSATARS](https://ieeexplore.ieee.org/abstract/document/101154405) | [code](https://github.com/littlebeen/Remote-Sensing-Super-resolution-Model-Collection) | - |
+|2024 | Multiscale Residual Dense Network for the Super-Resolution of Remote Sensing Images | MRDN | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10453218) | - | - |
+|2024 | EDiffSR: An Efficient Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution | EDiffSR | [IEEE TGRS](https://ieeexplore.ieee.org/document/10353979) | [code](https://github.com/XY-boy/EDiffSR) | - |
+|2024 | Building Bridges across Spatial and Temporal Resolutions Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model | RefDiff | [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_Building_Bridges_across_Spatial_and_Temporal_Resolutions_Reference-Based_Super-Resolution_via_CVPR_2024_paper.pdf) | [code](https://github.com/dongrunmin/RefDiff) | - |
+|2024 | Non-Local Similarity-Based Attentive Graph Convolution Network for Remote Sensing Image Super-Resolution | NSGCN | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10680068) | [code](https://github.com/WenjuanZhang-aircas/NSGCN) | - |
+|2024 | Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior | SGDM | [ISPRS](https://arxiv.org/abs/2405.07044) | [code](https://github.com/wwangcece/SGDM/tree/main) | reference-based sr |
+|2024 | Scale-Aware Backprojection Transformer for Single Remote Sensing Image Super-Resolution | - | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10753509) | - | - |
+|2024 | Hyper-Laplacian Prior for Remote Sensing Image Super-Resolution | - | [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10613839) | - | - |
+|2024 | Efficient Swin Transformer for Remote Sensing Image Super-Resolution | ESTNet | [IEEE TIP](https://ieeexplore.ieee.org/abstract/document/10746331) | [code](https://github.com/PuhongDuan/ESTNet) | - |
